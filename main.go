@@ -2,7 +2,7 @@ package main
 
 import (
   "fmt"
-  "github.com/TubularBlockchain/ccapi_bindings/go/ccapi
+  "github.com/TubularBlockchain/ccapi_bindings/go/ccapi"
 )
 
 func main()  {
