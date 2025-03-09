@@ -6,3 +6,5 @@ github.com/TubularBlockchain/ccapi_bindings/go v0.0.0-20250309165428-db2d634bb22
 github.com/TubularBlockchain/ccapi_bindings/go v0.0.0-20250309165428-db2d634bb221/go.mod h1:tcymqlko6Hvbe7TaucMwum17jBMrgVyi1lc3g2jY/Bc=
 github.com/TubularBlockchain/ccapi_bindings/go v0.0.0-20250309170234-17b19568909f h1:n2AJ8+Q7DcYeQKVv2wsTu6iNNbP/R9y79KiMyxVj8LM=
 github.com/TubularBlockchain/ccapi_bindings/go v0.0.0-20250309170234-17b19568909f/go.mod h1:tcymqlko6Hvbe7TaucMwum17jBMrgVyi1lc3g2jY/Bc=
+github.com/TubularBlockchain/ccapi_bindings/go v0.0.0-20250309170654-92deba904f7b h1:c+f8za7rTFcLqb7AL3s9Fc2xfgn+TusEjTbJXU4Gn8M=
+github.com/TubularBlockchain/ccapi_bindings/go v0.0.0-20250309170654-92deba904f7b/go.mod h1:tcymqlko6Hvbe7TaucMwum17jBMrgVyi1lc3g2jY/Bc=
